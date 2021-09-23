@@ -10969,10 +10969,10 @@ multicast-dns@^6.0.1:
     dns-packet "^1.3.1"
     thunky "^1.0.2"
 
-multicodec@*, multicodec@^3.0.1:
-  version "3.1.1"
-  resolved "https://registry.yarnpkg.com/multicodec/-/multicodec-3.1.1.tgz#477004dbd21e357b98a882b76dce1e13cb4a3f9f"
-  integrity sha512-q29htEIgHglgxEcD0SvTmf1er68nfhm87rMKPqpClequHOTJknDCX5xA8QHBwBstgj+niO2KrsJeFzpsMZj2DQ==
+multicodec@*, multicodec@^3.0.1, multicodec@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/multicodec/-/multicodec-3.2.1.tgz#82de3254a0fb163a107c1aab324f2a91ef51efb2"
+  integrity sha512-+expTPftro8VAW8kfvcuNNNBgb9gPeNYV9dn+z1kJRWF2vih+/S79f2RVeIwmrJBUJ6NT9IUPWnZDQvegEh5pw==
   dependencies:
     uint8arrays "^3.0.0"
     varint "^6.0.0"
